@@ -93,7 +93,7 @@ class UseRepsit:
 obj = UseRepsit("user.json")
 from os import system
 from time import sleep
-print("Shaxriyor Ziyodullayevning mini proekting xush kelibsiz! ")
+print("Shaxriyor Ziyodullayevning mini proektiga xush kelibsiz! ")
 while True:
     print("""
     1. Yangi User qo'shish
